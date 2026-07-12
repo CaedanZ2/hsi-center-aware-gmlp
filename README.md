@@ -1,6 +1,6 @@
 # Center-Aware Attention-Guided gMLP for Hyperspectral Image Classification
 
-**Final-Year Project, Portland Institute, Nanjing University of Posts and Telecommunications (2025-2026)**
+**Senior Project, Portland Institute, Nanjing University of Posts and Telecommunications (2025-2026)**
 
 This repository documents a five-member senior project on efficient spectral-spatial representation learning for hyperspectral image classification. The proposed framework combines a 3D-CNN encoder, spectral-spatial attention, a center-aware token prior, and an HSI-specific gMLP token mixer.
 
