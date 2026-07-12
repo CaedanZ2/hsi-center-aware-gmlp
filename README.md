@@ -2,7 +2,7 @@
 
 **Senior Project, Portland Institute, Nanjing University of Posts and Telecommunications (2025-2026)**
 
-This repository documents a five-member senior project on efficient spectral-spatial representation learning for hyperspectral image classification. The proposed framework combines a 3D-CNN encoder, spectral-spatial attention, a center-aware token prior, and an HSI-specific gMLP token mixer.
+This repository documents a senior project on efficient spectral-spatial representation learning for hyperspectral image classification. The proposed framework combines a 3D-CNN encoder, spectral-spatial attention, a center-aware token prior, and an HSI-specific gMLP token mixer.
 
 > **Repository status:** The documentation, figures, and verified result tables are ready for public presentation. Training code should be added only after it has been cleaned, tested, and approved for release by the project team and supervisor.
 
@@ -114,7 +114,7 @@ This was a team final-year project supervised by **Prof. Jian Xiong**.
 
 Project members listed in the submitted report:
 
-- Jinlong Zhang, listed as **Caedan Zhang** in the report
+- Jinlong Zhang, (listed as **Caedan Zhang** in the report) leader
 - Chris Yu
 - Dexter Ma
 - Jayson Fan
@@ -128,9 +128,6 @@ The original 48-page team report contains student identifiers and information be
 
 A public technical summary is available in [`docs/project_summary.md`](docs/project_summary.md).
 
-## Citation
-
-Before publishing the repository, verify the contributor names and ordering in [`CITATION.cff`](CITATION.cff). GitHub will show a **Cite this repository** option when a valid citation file is present.
 
 ## License
 
