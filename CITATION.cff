@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you refer to this project repository, please cite the project and credit all listed team members."
+title: "Center-Aware Attention-Guided gMLP for Hyperspectral Image Classification"
+authors:
+  - family-names: Zhang
+    given-names: Jinlong
+  - family-names: Yu
+    given-names: Chris
+  - family-names: Ma
+    given-names: Dexter
+  - family-names: Fan
+    given-names: Jayson
+  - family-names: Xu
+    given-names: Osman
+date-released: 2026-06-01
+url: "https://github.com/YOUR_GITHUB_USERNAME/hsi-center-aware-gmlp"

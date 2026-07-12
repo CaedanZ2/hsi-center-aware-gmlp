@@ -1,0 +1,8 @@
+Model,Mean OA,Mean AA,Mean Kappa,Params (M),MACs (M),Inference (ms/sample)
+SVM-RBF,88.31,86.51,86.26,,,0.079
+2D-CNN,97.39,91.05,96.97,0.068,15.1,0.143
+3D-CNN,93.44,87.84,92.45,0.071,2644.72,1.597
+HybridSN,98.96,94.63,98.8,2.915,1363.99,0.694
+SSRN,97.96,91.13,97.65,0.061,890.78,18.242
+SpectralFormer-lite,82.14,80.46,79.04,0.036,0.3,0.144
+Proposed Attention Center-gMLP,97.96,97.08,97.62,0.148,2656.75,4.63
